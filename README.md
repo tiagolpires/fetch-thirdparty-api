@@ -8,4 +8,4 @@ Web application using javascript fetch, to fetch data from an third party API
 
 ## API
 
-- [Reqres](https://reqres.in/)
+- [Reqres - API](https://reqres.in/)
