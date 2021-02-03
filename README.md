@@ -1,11 +1,11 @@
 # Fetch API
 
-![](git-image.png)
+![](git-image.PNG)
 
 ## About
 
 Web application using javascript fetch, to fetch data from an third party API
 
-##API
+## API
 
 - [Reqres](https://reqres.in/)
